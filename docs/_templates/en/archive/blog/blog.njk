@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="stylesheet" type="text/css" href="/css/archive/blog.css">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>{{ title }}</title>
+</head>
+<body>
+	<header>
+		<p>Plurk Labs - news about plurkland</p>
+		<a href="/">Go back to Plurkipedia</a>
+	</header>
+	<div class="bluecontent">
+		<div id="logo">
+			<img src="/media/archive/blog/layout/logo.png" alt="" loading="lazy">
+		</div>
+		<div id="central">
+			<aside>{% include "en/archive/blog/sidebar.njk" %}</aside>
+			<article>
+				<div id="article-head">
+					<a href="{{ archiveurl }}" target="_blank"><h1>{{ title }}</h1></a>
+					<p id="date">{{ date | date("MMMM d, yyyy") }}</p>
+				</div>
+				{{ content | safe }}
+				<p id="author">Posted by {{ author }}</p>
+			</article>
+		</div>
+	</div>
+</body>
+</html>
