@@ -2,8 +2,8 @@ const { DateTime } = require("luxon");
 
 module.exports = function (eleventyConfig) {
 
-	eleventyConfig.addPassthroughCopy("docs/css");
-	eleventyConfig.addPassthroughCopy("docs/media");
+	eleventyConfig.addPassthroughCopy("pages/css");
+	eleventyConfig.addPassthroughCopy("pages/media");
 
   eleventyConfig.addFilter("date", (dateObj, format = "MMMM d, yyyy") => {
     return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat(format);
@@ -11,7 +11,7 @@ module.exports = function (eleventyConfig) {
 
 	return {
 		dir: {
-			input: "docs",
+			input: "pages",
 			output: "public",
 			includes: "_templates",
 		},
