@@ -4,7 +4,6 @@ layout: en/archive/blog/blog.njk
 date: 2008-05-20
 author: akan
 archiveurl: https://web.archive.org/web/20080702132154/http://blog.plurk.com/2008/05/20/das-leben-der-anderen-a-window-into-the-lives-of-others/
-permalink: /en/archive/blog/2008/5/20.md
 ---
 *“Marky got with Sharon, And Sharon got Sharice, She was sharing Sharon’s outlook, On the topic of disease, Mikey had a facial scar, And Bobby was a racist, They were all in love with dyin, They were doin’ it in Texas’…. You never know just how you look, Through other people’s eyes” Butthole Surfers - Pepper*
 

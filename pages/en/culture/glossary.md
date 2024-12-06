@@ -1,7 +1,6 @@
 ‐‐‐
 title: Glossary and Acronyms
 layout: en/main.njk
-permalink: "/en/culture/glossary.html"
 ‐‐‐
 ## Glossary
 
