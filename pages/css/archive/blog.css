@@ -100,3 +100,6 @@ footer a {
 	padding: 0 3px 0 3px;
 }
 footer a:hover {color: white;}
+@media only screen and (max-width: 700px) {
+	#central {flex-direction: column-reverse;}
+}
