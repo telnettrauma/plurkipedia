@@ -70,6 +70,7 @@ aside ul li a, article a {
 	color: #980027;
 }
 article {
+	background: white url(/media/archive/blog/layout/corner1.gif) no-repeat right bottom;
 	width: 100%;
 	max-width: 600px;
 	clear: both;
@@ -86,3 +87,16 @@ article p {
 	min-width: 100px;
 }
 #author {text-align: right;}
+footer {
+	margin: 20px auto;
+	font-size: 11px;
+	text-align: right;
+	color: #AC4610;
+	padding-right: 10px;
+}
+footer a {
+	color: #ffd88d;
+	margin-left: 5px;
+	padding: 0 3px 0 3px;
+}
+footer a:hover {color: white;}
