@@ -13,6 +13,7 @@ layout: en/main.njk
 - `dni` - do not interact
 - `dnf` - do not follow
 - `iwc` - interact with caution
+- `iwec` - interact with extra caution
 - `lms` - like my status
 - `op` - original poster. refers to the person who made the post
 - `anon` - author of an anonymous Plurk
