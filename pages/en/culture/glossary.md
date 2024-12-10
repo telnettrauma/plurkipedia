@@ -14,6 +14,7 @@ layout: en/main.njk
 - `dnf` - do not follow
 - `iwc` - interact with caution
 - `iwec` - interact with extra caution
+- `pivg` - please interact very gently
 - `lms` - like my status
 - `op` - original poster. refers to the person who made the post
 - `anon` - author of an anonymous Plurk
