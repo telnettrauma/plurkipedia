@@ -9,11 +9,11 @@ One of the most requested features is ability to search and now you can search f
 
 In the bottom-right of your timeline you can see a little search icon:
 
-![Screenshot of a user starting a Plurk search for pizza](media/archive/blog/2008/6/search/14jukg0.png)
+![Screenshot of a user starting a Plurk search for pizza](/media/archive/blog/2008/6/search/14jukg0.png)
 
 After entering a keyword string, the search takes you to our [search page](http://plurk.com/search/):
 
-![Screenshot of a Plurk search for pizza](media/archive/blog/2008/6/search/wtw3ea.png)
+![Screenshot of a Plurk search for pizza](/media/archive/blog/2008/6/search/wtw3ea.png)
 
 We have also made it super easy to find people. Some interesting searches:
 

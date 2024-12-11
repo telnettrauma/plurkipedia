@@ -27,10 +27,10 @@ Read more about [Plurk’s karma system](https://web.archive.org/web/2008070302
 
 Other than these changes, we have made it possible to more easily follow your karma growth. If you hover over karma, you can see how much you have gained since the last karma update:
 
-![Screenshot of Plurk karma on a user's profile](media/archive/blog/2008/6/karma/2hnbbcz.png)
+![Screenshot of Plurk karma on a user's profile](/media/archive/blog/2008/6/karma/2hnbbcz.png)
 
 Also, when you expand the info box of a user, you’ll now be able to see this user’s karma:
 
-![Screenshot of a user on Plurk being hovered over, revealing information about the user such as age and karma](media/archive/blog/2008/6/karma/313jgub.png)
+![Screenshot of a user on Plurk being hovered over, revealing information about the user such as age and karma](/media/archive/blog/2008/6/karma/313jgub.png)
 
 Enjoy the karma updates. We’ve got a lot of goodies in store for the coming week! Stay tuned and keep on plurkin.

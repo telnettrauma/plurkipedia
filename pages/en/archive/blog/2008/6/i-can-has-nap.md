@@ -1,5 +1,5 @@
 ---
-title: I can has nap
+title: I can has nap?
 layout: en/archive/blog/blog.njk
 date: 2008-06-06
 author: akan

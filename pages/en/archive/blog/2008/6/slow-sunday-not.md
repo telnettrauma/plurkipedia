@@ -9,7 +9,7 @@ You can rest easy knowing that every facet of Plurk is built with scaling in min
 
 Exhibit A - Not what an NHL regulated hockey stick should look like.
 
-![Chart of the number of active users suddenly spiking](media/archive/blog/2008/6/sunday/plurk_user_explosion.png)
+![Chart of the number of active users suddenly spiking](/media/archive/blog/2008/6/sunday/plurk_user_explosion.png)
 
 Here’s the 411. There we were merrily minding our own business when we were descended upon by a swarm of A-list twittigentsia.  (We will withhold naming names *[cough](http://www.plurk.com/user/leolaporte)*) Couple this freak and unexpected publicity with our largely running the service off the backs of a non-production ready dev server and you have a huge performance issue.
 
