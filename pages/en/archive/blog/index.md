@@ -23,3 +23,9 @@ Welcome to the Plurk blog archive! This archive contains all of the old blog pos
 - [I block you!](/en/archive/blog/2008/6/i-block-you/)
 - [We haz search](/en/archive/blog/2008/6/we-haz-search/)
 - [Introducing the Plurk Collaborative Translation Project - Help Us Bring Plurk to your Language](/en/archive/blog/2008/6/plurk-collaborative-translation-project/)
+### July
+
+- [You haz a new widget!](/en/archive/blog/2008/7/you-haz-a-new-widget/)
+- [I, for one, welcome our new Plurk Overlord](/en/archive/blog/2008/7/new-plurk-overlord/)
+- [What the Plurk?!](/en/archive/blog/2008/7/what-the-plurk/)
+- [I Saw it Through the Plurkline - Custom CSS Profile Theming/Skinning is Here!](/en/archive/blog/2008/7/custom-css-profile-theming/)

@@ -55,6 +55,7 @@ article img {
 	max-width: 100%;
 	border: 4px solid #c6e2f9;
 }
+article ul li {list-style-type: circle;}
 aside {
 	width: 160px;
 }
