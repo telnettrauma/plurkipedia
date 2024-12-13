@@ -18,3 +18,5 @@ layout: en/main.njk
 - `lms` - like my status
 - `op` - original poster. refers to the person who made the post
 - `anon` - author of an anonymous Plurk
+- `atfrq` - ask to friend request
+- `dn` - usually refers to display name
