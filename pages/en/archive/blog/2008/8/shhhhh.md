@@ -1,0 +1,22 @@
+---
+title: Shhhh, that’s the sound of us working
+layout: en/archive/blog/blog.njk
+date: 2024-12-12
+author: akan
+archiveurl: https://web.archive.org/web/20090526000314/http://blog.plurk.com/2008/08/14/shhhh-thats-the-sound-of-us-working/
+---
+As you may or may not have noticed, the official Plurk blog has been awfully quiet over the past couple of weeks but don’t let that fool you. We’ve been busy as ever quietly rolling out feature after feature and usability tweaks here and there to make the overall Plurking experience that much more enjoyable. If you’ve kept a keen eye, you’ll have noticed some of these new goodies but here’s a quick recap of if you’ve missed them:
+
+- **No Karma Required For Timeline Customizations** - You can completely customize and theme your profile with CSS now without needing any karma! Some users may remember we had restricted custom CSS profile theming to those users over karma 25 when we first launched this feature. Not any longer. Now even new users have the ability to get in there and showcase their personality through their profile.
+
+- **Plurk Badges on your Dashboard** - Many of our users started noticing new badges popping up on their dashboard late last week. These badges are our way of giving back to those users that have played a special role in helping to improve our community. Whether it be through friend referrals, or through helping to [translate Plurk](http://translate.plurk.com/) into other languages or from starting any one of the great fan blogs about Plurk (see the unofficial list on the left navigation bar), we just wanted to say thanks for your continued support in helping make Plurk better for everyone, new and old. We’ve got a total of over 10 unique badges now and you’ll see more popping up here or there in the coming weeks!
+
+- **Minor Usability Enhancements** - You may have also noticed a few small improvements directly on your timeline, such as: **a.)** the ability to reply to a plurker directly by clicking on their drop down tab when you hover over their name and clicking ‘reply to’. This is a great way to avoid having to type out “@username” all the time if you want to address someone specific in a conversation. **b.)** A thin ‘last visited’ line which disappears after a few seconds indicating the last time you were on Plurk. This is useful so you can quickly scan all those new Plurks since the time you were last on and start from the right place. **c.)** When checking out new unread Plurk responses by clicking the notification marker at bottom left, we now take you back to the oldest Plurk with a response rather than to the newest Plurk with a response. Our thinking is that when you want to get caught up on Plurk responses you missed, you want to read the timeline from right to left or from the oldest Plurk responses to the newest so we’ve now made this little enhancement automatic so you dont have to scroll back in time to get caught up.
+
+- **Newer, Fresher Browse Page** - We’ve updated the [Interesting Plurkers](https://web.archive.org/web/20090526000314/http://www.plurk.com/browse) page to include a view of more Plurkers that you may want to follow. We found that a lot of users are always looking to connect with other active, popular or new Plurkers in addition to wanting to view the latest stream of activity on the global timeline. Now we’ve made it super easy to connect with other like minded Plurkers.
+
+The above are just some of the many new features we’ve rolled out in the past few weeks. We’ve also added new technicolour Plurk creatures for users with high Karma so check those out if you’re feeling adventurous and want to spice up your Plurk page. Moreover, new users will find the experience to get acquainted with Plurk has also improved and we’ve made it easy to get started by suggesting some other interesting Plurkers who live near you or who share some common interests.
+
+So what’s around the corner? A whole lot more! We’ve got a jam packed next couple of weeks where we’ll be starting to roll out some major enhancements to the service. We’ll also continue to improve our efforts to give back to our most passionate Plurkers so look out for free stuff and a couple of fun promotions coming your way!
+
+Now, if you’ll excuse us, we’ve got to get back to work. Cheers everyone and keep on Plurking in the free world!

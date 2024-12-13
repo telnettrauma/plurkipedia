@@ -29,3 +29,7 @@ Welcome to the Plurk blog archive! This archive contains all of the old blog pos
 - [I, for one, welcome our new Plurk Overlord](/en/archive/blog/2008/7/new-plurk-overlord/)
 - [What the Plurk?!](/en/archive/blog/2008/7/what-the-plurk/)
 - [I Saw it Through the Plurkline - Custom CSS Profile Theming/Skinning is Here!](/en/archive/blog/2008/7/custom-css-profile-theming/)
+
+### August
+
+- [Shhhh, that’s the sound of us working](/en/archive/blog/2008/8/shhhhh/)
