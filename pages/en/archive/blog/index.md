@@ -33,3 +33,9 @@ Welcome to the Plurk blog archive! This archive contains all of the old blog pos
 ### August
 
 - [Shhhh, that’s the sound of us working](/en/archive/blog/2008/8/shhhhh/)
+
+### September
+
+- [Plurk’s First Ever Plurktacular Design Contest! Win One of 20 $50 Amazon.com Gift Certificates!](/en/archive/blog/2008/9/plurktacular-design-contest/)
+- [Plurk New Feature Round Up – The Week of September 15-22nd](/en/archive/blog/2008/9/new-feature-round-up/)
+- [Announcing the Super-Duper, Super-Fun, Plurk Flash Widget](/en/archive/blog/2008/9/plurk-flash-widget/)

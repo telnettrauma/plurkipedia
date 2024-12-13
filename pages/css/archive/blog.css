@@ -105,7 +105,11 @@ footer a {
 	margin-left: 5px;
 	padding: 0 3px 0 3px;
 }
-footer a:hover {color: white;}
+footer a:hover, .loves, .feels, .wants {color: white;}
+.loves, .feels {padding: 2px;}
+.loves {background-color: #b20c0c;}
+.feels {background-color: #2d83be;}
+.wants {background-color: #8db241;}
 @media only screen and (max-width: 700px) {
 	#central {flex-direction: column-reverse;}
 }
