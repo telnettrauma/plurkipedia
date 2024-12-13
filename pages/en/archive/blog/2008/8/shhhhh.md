@@ -1,7 +1,7 @@
 ---
 title: Shhhh, that’s the sound of us working
 layout: en/archive/blog/blog.njk
-date: 2024-12-12
+date: 2008-08-14
 author: akan
 archiveurl: https://web.archive.org/web/20090526000314/http://blog.plurk.com/2008/08/14/shhhh-thats-the-sound-of-us-working/
 ---
