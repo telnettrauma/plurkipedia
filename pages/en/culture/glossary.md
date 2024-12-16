@@ -6,7 +6,9 @@ layout: en/main.njk
 
 - `mutual` - two users who follow each other back
 - `oomf` - synonym for mutual
-- `invisible comment` - when someone who has blocked you or you blocked responds to a Plurk, making the comment invisible
+- `invisible comment` - when a user who has blocked you or you have blocked responds to a Plurk, making the comment invisible
+- `softblock` - blocking a user and then immediately unblocking them, so neither person follows each other anymore
+- `hardblock` - blocking a user without removing the block
 
 ## Acronyms
 
@@ -20,3 +22,4 @@ layout: en/main.njk
 - `anon` - author of an anonymous Plurk
 - `atfrq` - ask to friend request
 - `dn` - usually refers to display name
+- `pfp` - profile picture
