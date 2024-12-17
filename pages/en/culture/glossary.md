@@ -23,3 +23,4 @@ layout: en/main.njk
 - `atfrq` - ask to friend request
 - `dn` - usually refers to display name
 - `pfp` - profile picture
+- `p/r` - profile rating
