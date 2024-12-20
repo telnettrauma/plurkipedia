@@ -24,3 +24,4 @@ layout: en/main.njk
 - `dn` - usually refers to display name
 - `pfp` - profile picture
 - `p/r` - profile rating
+- `oorp` - out of role play
